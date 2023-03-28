@@ -134,7 +134,7 @@ cv2.destroyAllWindows()
 <br>
 
 ### ii) HSV to RGB and BGR
-<br>
+![](result5.PNG)
 <br>
 
 ### iii) RGB and BGR to YCrCb
@@ -143,11 +143,11 @@ cv2.destroyAllWindows()
 <br>
 
 ### iv) Split and merge RGB Image
-<br>
+![](result 3.PNG)
 <br>
 
 ### v) Split and merge HSV Image
-<br>
+![](result4.PNG)
 <br>
 
 
